@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Skyserver/static/css/main.073c9b0a.css",
+    "main.js": "/Skyserver/static/js/main.8b51db33.js",
+    "static/js/787.55bc36c5.chunk.js": "/Skyserver/static/js/787.55bc36c5.chunk.js",
+    "static/media/logo.svg": "/Skyserver/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Skyserver/index.html",
+    "main.073c9b0a.css.map": "/Skyserver/static/css/main.073c9b0a.css.map",
+    "main.8b51db33.js.map": "/Skyserver/static/js/main.8b51db33.js.map",
+    "787.55bc36c5.chunk.js.map": "/Skyserver/static/js/787.55bc36c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8b51db33.js"
+  ]
+}
